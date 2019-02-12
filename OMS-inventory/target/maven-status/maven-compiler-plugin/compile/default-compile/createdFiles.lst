@@ -1,0 +1,9 @@
+com\fossil\OMS\Model\SFCCInventory.class
+com\fossil\OMS\Controller\InventoryController$2.class
+com\fossil\OMS\Controller\InventoryController$1.class
+com\fossil\OMS\Controller\InventoryController.class
+com\fossil\OMS\FossilApplication.class
+com\fossil\OMS\Daos\SFCCInventoryJdbcRepository$InventoryRowMapper.class
+com\fossil\OMS\Service\InventoryServiceCmdImpl.class
+com\fossil\OMS\Service\InventoryService.class
+com\fossil\OMS\Daos\SFCCInventoryJdbcRepository.class
